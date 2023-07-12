@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "tab-demo-react-native",
+    "slug": "tab-demo-react-native"
+  }
+}
